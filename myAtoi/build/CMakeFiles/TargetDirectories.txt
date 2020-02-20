@@ -1,0 +1,4 @@
+/Users/zrq/Downloads/zrq/coding/myAtoi/build/CMakeFiles/rebuild_cache.dir
+/Users/zrq/Downloads/zrq/coding/myAtoi/build/CMakeFiles/edit_cache.dir
+/Users/zrq/Downloads/zrq/coding/myAtoi/build/CMakeFiles/test.dir
+/Users/zrq/Downloads/zrq/coding/myAtoi/build/CMakeFiles/myAtoi.dir
